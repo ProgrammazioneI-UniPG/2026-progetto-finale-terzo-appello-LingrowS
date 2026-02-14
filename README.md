@@ -2,11 +2,14 @@
 # Progetto-finale-2025-Cosestrane
 Progetto finale Programmazione Procedurale UniPG Informatica
 
-## Nome: 
+## Nome: Rowlings
 
-## Cognome: 
+## Cognome: omordia
 
-## Matricola:
+## Matricola: 359772
 
 ## Commenti/modifiche al progetto:
+1.Aggiunto il 33% la possibilità di sopravvivere ad un colpo mortale
+2.Modifica della probabilità di drop degli oggetti(aumentata di un 10%)
+3.Aggiunta dell'oggetto DITO_DI_SUKUNA, 65% possibilità di morire, 35% di possibilità di aumentare l'attacco a 40
 
